@@ -1,0 +1,12 @@
+C:\Users\tapho\source\repos\Rat\rat.shared\bin\Debug\net6.0\Rat.Shared.deps.json
+C:\Users\tapho\source\repos\Rat\rat.shared\bin\Debug\net6.0\Rat.Shared.dll
+C:\Users\tapho\source\repos\Rat\rat.shared\bin\Debug\net6.0\Rat.Shared.pdb
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.csproj.AssemblyReference.cache
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.AssemblyInfoInputs.cache
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.AssemblyInfo.cs
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.dll
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\refint\Rat.Shared.dll
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\Rat.Shared.pdb
+C:\Users\tapho\source\repos\Rat\rat.shared\obj\Debug\net6.0\ref\Rat.Shared.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rat.Client", "rat.client\Rat.Client.csproj", "{514CDA7C-2A4B-4624-9508-D3899FF5C5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rat.Shared", "rat.shared\Rat.Shared.csproj", "{723376A5-E111-4FEC-8EFE-28F156949112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rat.Api", "rat.api\Rat.Api.csproj", "{9B73627E-C09F-42A9-939F-79B1223B740F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514CDA7C-2A4B-4624-9508-D3899FF5C5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514CDA7C-2A4B-4624-9508-D3899FF5C5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514CDA7C-2A4B-4624-9508-D3899FF5C5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514CDA7C-2A4B-4624-9508-D3899FF5C5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723376A5-E111-4FEC-8EFE-28F156949112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723376A5-E111-4FEC-8EFE-28F156949112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723376A5-E111-4FEC-8EFE-28F156949112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723376A5-E111-4FEC-8EFE-28F156949112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B73627E-C09F-42A9-939F-79B1223B740F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B73627E-C09F-42A9-939F-79B1223B740F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B73627E-C09F-42A9-939F-79B1223B740F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B73627E-C09F-42A9-939F-79B1223B740F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
